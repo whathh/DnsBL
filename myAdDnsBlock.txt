@@ -32,3 +32,9 @@
 ||pagead2.googlesyndication.com^
 ||youtube.com/get_video_ads^
 ||youtube.com/api/stats/ads^
+
+||dig.bdurl.net^
+||googleads.g.doubleclick.net^
+||cgicol.amap.com^
+||ad.doubleclick.net^
+||beacon.sina.com.cn^
