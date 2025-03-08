@@ -1,12 +1,8 @@
-! ---- YouTube Ads Blocklist ----
-
-! Known ad-serving domains
 ||ads.youtube.com^
 ||ad.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||googlevideo.com^
 
-! Wildcard rules to block common ad URLs
 ||youtube.com/api/stats/ads^
 ||youtube.com/get_midroll_info^
 ||youtube.com/pagead/^
@@ -19,7 +15,6 @@
 ||youtube.com/youtubei/v1/player/ima^
 ||youtube.com/youtubei/v1/next^$important
 
-! Block YouTube ad scripts
 ||s.ytimg.com/yts/jsbin/player-*.js
 ||s.ytimg.com/yts/jsbin/*-ad-vfl*.js
 
@@ -38,3 +33,10 @@
 ||cgicol.amap.com^
 ||ad.doubleclick.net^
 ||beacon.sina.com.cn^
+||googlevideo.com/ptracking^
+||youtube.com/api/stats/ads^
+||youtube.com/get_video_info^
+||youtube.com/get_video_ads^
+||youtube.com/ptracking^
+||doubleclick.net^
+
