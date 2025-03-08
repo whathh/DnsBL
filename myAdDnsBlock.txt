@@ -26,3 +26,9 @@
 ! Optional: Block tracking domains
 ||youtube.com/api/stats/qoe^
 ||youtube.com/api/stats/playback^
+
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||youtube.com/get_video_ads^
+||youtube.com/api/stats/ads^
